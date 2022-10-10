@@ -1,0 +1,33 @@
+body {
+    background-color: azure;
+}
+h1 {
+    background-color: aquamarine;
+}
+h2 {
+    background-color: rgb(55, 160, 125);
+}
+p {
+    background-color: blue;
+}
+.dwa {
+    background-color: brown;
+}
+ol {
+    background-color: blueviolet;
+}
+li {
+    color: red;
+}
+.trzy{
+    color: rgb(247, 82, 82);
+}
+.cztery{
+    color: rgb(250, 127, 127);
+}
+.piec{
+    color: rgb(245, 181, 181);
+}
+.szesc {
+    color: rgb(250, 226, 226);
+}
